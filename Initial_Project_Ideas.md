@@ -19,10 +19,11 @@ Possible project subjects:
 	* use periodic boundary conditions
 	
 	* have to initialize particle position and velocities before using verlet equations
-	*
-	
 	
 	* This project seems feasible and very applicable to my summer research. 
 
+
+DAY ONE: Notes
+* I have decided to go with the MD simulations project. I will first begin by writing a code to create a box that will contain one particle and add in components that make the simulation more realisitc and interesting such as inculding forces, making it a periodic boundary and so on. 
 
 
