@@ -4,7 +4,7 @@ Possible project subjects:
 	* to study equilibrium properties of a sys
 
 
-2.) Molecular Dynamics -giordano text notes pg 230 (245)
+2.) Molecular Dynamics -giordano text notes pg 230 (245), sample code on pg 405
 	* complimentary to monte carlo instead of EQ we look at how fast sys will go to EQ
 	
 	* Simulate dynamics using microscopic equitions of motion
