@@ -7,7 +7,3 @@ This project will implement Molecular Dynamics (MD) to simulate 8937 molecules o
 File named WaterSimulationCode provides code needed for running the simulations. This code was adapted from OpenMM and Dr.Kevin E Johnson from Pacific University. 
 
 The file named project.ipynb uses packages from math, numpy, and matplotlib.pylab for analysis of the trajectory files obtained from the simulations. 
-
-
-project by Asela Chandrasinghe
-contact: chan8005@pacificu.edu
